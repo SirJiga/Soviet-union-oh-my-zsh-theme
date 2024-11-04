@@ -33,7 +33,7 @@ result() {
 
 build_prompt() {
   element red black $(result)
-  element blue red "> %n > "
+  element black red "> %n > "
   element black green "> %~ >"
   promt_end
   echo 
