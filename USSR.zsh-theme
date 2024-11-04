@@ -1,10 +1,8 @@
-rescol="green"
-
 SEPARATOR=''
-CURRENT_BG='NONE'
-ARROW=''
 ERR='✘'
 DONE='☭'
+
+CURRENT_BG='NONE'
 
 element() {
   local bg fg
